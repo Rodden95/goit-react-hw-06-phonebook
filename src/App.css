@@ -1,0 +1,9 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+.container {
+  padding-top: 30px;
+  max-width: 400px;
+}
+.contContact{
+  display: flex;
+  justify-content: space-between;
+}
